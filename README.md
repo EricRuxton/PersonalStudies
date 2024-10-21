@@ -12,3 +12,9 @@ Catching up via appendices.
 Discussion:
 React Router, Navigation
 ContextAPI vs Redux - Intro to prop drilling
+
+# October 21st 2024
+## 2 hours of TensorFlow Bootcamp
+Discussion:
+Defining the steps to buildnig a ML project.
+Setting up the development tools (Anaconda, Jupyter)
