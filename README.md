@@ -18,3 +18,14 @@ ContextAPI vs Redux - Intro to prop drilling
 Discussion:
 Defining the steps to buildnig a ML project.
 Setting up the development tools (Anaconda, Jupyter)
+
+# October 23rd 2024
+## 2 hours of DSA Bootcamp
+Discussion:
+Building linked and doubly linked lists
+
+## 1 hour of AWS Bootcamp
+Discussion:
+Data Storage Systems
+
+
