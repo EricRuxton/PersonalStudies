@@ -28,4 +28,9 @@ Building linked and doubly linked lists
 Discussion:
 Data Storage Systems
 
+# October 24th 2024
+## 2 hours of AWS Bootcamp
+Discussion:
+Amazon RDS, Purpose built DBs, DynamoDB
+
 
