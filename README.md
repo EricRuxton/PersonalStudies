@@ -33,4 +33,8 @@ Data Storage Systems
 Discussion:
 Amazon RDS, Purpose built DBs, DynamoDB
 
-
+# Novenber 9th 2024
+## 1 hour of AWS Bootcamp
+Discussion:
+Monitoring, CloudWatch, Load Balancers
+Reviewed notes up to date
