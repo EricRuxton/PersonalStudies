@@ -38,3 +38,9 @@ Amazon RDS, Purpose built DBs, DynamoDB
 Discussion:
 Monitoring, CloudWatch, Load Balancers
 Reviewed notes up to date
+
+# November 10th 2024
+## 1 hour of AWS Bootcamp
+Discussion:
+Auto Scaling, Review and Certification test
+Completed AWS Technical Essentials Cert.
