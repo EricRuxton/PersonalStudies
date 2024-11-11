@@ -43,4 +43,5 @@ Reviewed notes up to date
 ## 1 hour of AWS Bootcamp
 Discussion:
 Auto Scaling, Review and Certification test
+
 Completed AWS Technical Essentials Cert.
