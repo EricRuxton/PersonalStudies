@@ -55,3 +55,7 @@ Intro to pandas, Intro to NumPy
 ## 3 hour of AWS Bootcamp
 Discussion:
 How to choose between servered and serverless, intro to data storage in depth
+
+## 3 hour of DSA Bootcamp
+Discussion:
+Arrays, Linear Search, Binary Search
