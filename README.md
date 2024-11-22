@@ -46,8 +46,12 @@ Auto Scaling, Review and Certification test
 Completed AWS Technical Essentials Cert.
 AWS Compute options - In Depth
 
-# November 10th 2024
+# November 12th 2024
 ## 2 hour of TF Bootcamp
 Discussion:
 Intro to pandas, Intro to NumPy
 
+# November 22nd 2024
+## 3 hour of AWS Bootcamp
+Discussion:
+How to choose between servered and serverless, intro to data storage in depth
