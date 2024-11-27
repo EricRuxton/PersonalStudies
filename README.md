@@ -75,3 +75,7 @@ Identifying the right solution,
 Intro to the core storage services, 
 EBS in depth, 
 EC2 Instance Store in depth
+
+## 2 hour of DSA Bootcamp
+Discussion:
+LL/DLL, Stack, Queue
