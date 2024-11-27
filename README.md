@@ -10,7 +10,7 @@ Catching up via appendices.
 # October 19th 2024
 ## 2 hours of React Bootcamp
 Discussion:
-React Router, Navigation
+React Router, Navigation, 
 ContextAPI vs Redux - Intro to prop drilling
 
 # October 21st 2024
@@ -36,14 +36,14 @@ Amazon RDS, Purpose built DBs, DynamoDB
 # November 9th 2024
 ## 1 hour of AWS Bootcamp
 Discussion:
-Monitoring, CloudWatch, Load Balancers
+Monitoring, CloudWatch, Load Balancers, 
 Reviewed notes up to date
 
 # November 10th 2024
 ## 2 hour of AWS Bootcamp
 Discussion:
-Auto Scaling, Review and Certification test
-Completed AWS Technical Essentials Cert.
+Auto Scaling, Review and Certification test, 
+Completed AWS Technical Essentials Cert, 
 AWS Compute options - In Depth
 
 # November 12th 2024
@@ -63,15 +63,15 @@ Arrays, Linear Search, Binary Search
 # November 25th 2024
 ## 2 hour of AWS Bootcamp
 Discussion:
-Core storage services
-Intro to the AWS Storage portfolio
-Data transfer and migration
+Core storage services, 
+Intro to the AWS Storage portfolio, 
+Data transfer and migration, 
 Data protection
 
 # November 27th 2024
 ## 2 hour of AWS Bootcamp
 Discussion:
-Identifying the right solution
-Intro to the core storage services
-EBS in depth
+Identifying the right solution, 
+Intro to the core storage services, 
+EBS in depth, 
 EC2 Instance Store in depth
