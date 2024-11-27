@@ -59,3 +59,19 @@ How to choose between servered and serverless, intro to data storage in depth
 ## 3 hour of DSA Bootcamp
 Discussion:
 Arrays, Linear Search, Binary Search
+
+# November 25th 2024
+## 2 hour of AWS Bootcamp
+Discussion:
+Core storage services
+Intro to the AWS Storage portfolio
+Data transfer and migration
+Data protection
+
+# November 27th 2024
+## 2 hour of AWS Bootcamp
+Discussion:
+Identifying the right solution
+Intro to the core storage services
+EBS in depth
+EC2 Instance Store in depth
