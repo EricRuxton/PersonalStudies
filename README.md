@@ -79,3 +79,10 @@ EC2 Instance Store in depth
 ## 2 hour of DSA Bootcamp
 Discussion:
 LL/DLL, Stack, Queue
+
+# November 27th 2024
+## 4 hour of AWS Bootcamp
+Discussion:
+Edge and Hybrid Storage Solutions, 
+Data Transfer and Migration Services
+
