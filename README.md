@@ -80,9 +80,18 @@ EC2 Instance Store in depth
 Discussion:
 LL/DLL, Stack, Queue
 
-# November 27th 2024
+# December 3rd 2024
 ## 4 hour of AWS Bootcamp
 Discussion:
 Edge and Hybrid Storage Solutions, 
 Data Transfer and Migration Services
+
+# December 4th 2024
+## 2 hour of AWS Bootcamp
+Discussion:
+Completed Core Storage Services certificate with data protection and backups
+
+## 2 hour of DSA Bootcamp
+Discussion:
+ArrayLists, Recursion
 
